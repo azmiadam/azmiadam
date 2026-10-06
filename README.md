@@ -27,7 +27,13 @@
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
+
+> “First, solve the problem. Then, write the code.” — John Johnson
+
+</div>
+
+# 🐍 Snake
 
 <div align="center">
 
@@ -37,9 +43,6 @@
 ```
 
 ---
-
-# ⚡ Indigo Luxury Tech Stack
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,flask,laravel,astro,flutter,mysql,git,github,vscode,tailwind,bootstrap,figma&theme=dark&perline=8" />
@@ -48,7 +51,7 @@
 
 ---
 
-# 🪄 Modern Developer Setup
+#Developer Setup
 
 <div align="center">
 
@@ -63,16 +66,6 @@
 </div>
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=azmiadam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=e2e8f0"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azmiadam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=e2e8f0"/>
-
-</div>
 
 ---
 
@@ -149,13 +142,7 @@
 
 ---
 
-# ✨ Inspirational Quote
 
-<div align="center">
-
-> “First, solve the problem. Then, write the code.” — John Johnson
-
-</div>
 
 ---
 
