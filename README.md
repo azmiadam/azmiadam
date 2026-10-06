@@ -27,55 +27,13 @@
 
 ---
 
-# 💫 About Me
+# 🐍 Contribution Snake
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
 
-```javascript
-const azmiadam = {
-  name       : "Azmi Adam Maulana",
-  role       : "Full-Stack Web Developer",
-  location   : "Lamongan, Jawa Timur, Indonesia 🇮🇩",
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-  contact : {
-    phone : "085704825309",
-    email : "vampire03044@gmail.com"
-  },
-
-  softSkills : [
-    "Kerja Sama Tim",
-    "Problem Solving",
-    "Komunikasi"
-  ],
-
-  hardSkills : [
-    "Web Development",
-    "Mobile App Development"
-  ],
-
-  technologies : [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "PHP",
-    "Tailwind CSS",
-    "Python",
-    "Flask",
-    "Laravel",
-    "Astro",
-    "Flutter"
-  ],
-
-  projects : [
-    "Website Portfolio (Astro + Tailwind)",
-    "PonPay — Sistem Pembayaran Santri (Flask)",
-    "Karang Taruna Go Management (Laravel)",
-    "E-Kost — Sistem Pemesanan Kost Online (Flask)",
-    "AI Waste Classification App (Flutter)"
-  ],
-
-  motto : "Design. Develop. Improve. 🚀"
-};
+</div>
 ```
 
 ---
@@ -187,13 +145,7 @@ const azmiadam = {
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
